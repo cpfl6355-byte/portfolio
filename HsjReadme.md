@@ -1,4 +1,4 @@
-<img width="710" height="326" alt="image" src="https://github.com/user-attachments/assets/0bb7963a-bfa2-4f1b-8c19-53baf3df5e23" />#한성주 포트폴리오## 🙋 소개
+#한성주 포트폴리오## 🙋 소개
 
 안녕하세요! AI의 효율성에 트렌디한 감각을 더하다, 
 
